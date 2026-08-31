@@ -4,7 +4,7 @@
 **Difficulty:** Easy  
 **Link:** https://leetcode.com/problems/move-zeroes/ (LeetCode 283)  
 **Date solved:** 2026-08-31  
-**Status:** ✅ Solved / 🔁 Revisit / ❌ Stuck
+**Status:** ✅ Solved
 
 ---
 
