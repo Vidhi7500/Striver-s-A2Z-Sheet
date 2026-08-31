@@ -4,7 +4,7 @@
 **Difficulty:** Easy  
 **Link:** https://takeuforward.org/data-structure/check-if-an-array-is-sorted/  
 **Date solved:** 2026-08-31  
-**Status:** ✅ Solved / 🔁 Revisit / ❌ Stuck
+**Status:** ✅ Solved
 
 ---
 
