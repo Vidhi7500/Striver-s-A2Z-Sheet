@@ -1,9 +1,9 @@
 # Remove Duplicates from Sorted Array
 
-**Topic:** Arrays
-**Difficulty:** Easy
-**Link:** https://leetcode.com/problems/remove-duplicates-from-sorted-array/
-**Date solved:** 2026-09-04
+**Topic:** Arrays  
+**Difficulty:** Easy  
+**Link:** [https://leetcode.com/problems/remove-duplicates-from-sorted-array/](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)  
+**Date solved:** 2026-09-04  
 **Status:** ✅ Solved
 
 ---
