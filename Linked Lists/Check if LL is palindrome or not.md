@@ -1,9 +1,9 @@
 # Palindrome Linked List
 
-**Topic:** Linked List
-**Difficulty:** Easy
-**Link:** https://leetcode.com/problems/palindrome-linked-list/
-**Date solved:** 2026-09-04
+**Topic:** Linked List<br>
+**Difficulty:** Easy<br>
+**Link:** [https://leetcode.com/problems/palindrome-linked-list/](https://leetcode.com/problems/palindrome-linked-list/)<br>
+**Date solved:** 2026-09-04<br>
 **Status:** ✅ Solved
 
 ---
